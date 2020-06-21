@@ -1,0 +1,7 @@
+.*.c.swp
+.*.c.swo
+*.c.swp
+*.c.swo
+*.swp
+*.swo
+.#*
